@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "colors": "~0.6.2",
-    "uglify-js": "~2.4.8",
+    "uglify-js": "~3.10.0",
     "zip": "~1.1.1",
     "node-uuid": "~1.4.1",
     "errno": "~0.1.0",
